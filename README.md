@@ -2,6 +2,13 @@
 
 This repository contains the analysis of Ferns and Petals (FNP) sales data for 2023, conducted using Microsoft Excel.
 
+---
+
+>>
+![](https://github.com/aliaagamall/FNP-Sales-Analysis-2023/blob/main/Dashboard.PNG)
+>>
+---
+
 ### Files Included
 
 - **FNP Sales Data Analysis-2023.pdf**: Full report summarizing the analysis and findings.
