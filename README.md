@@ -5,7 +5,7 @@ This repository contains the analysis of Ferns and Petals (FNP) sales data for 2
 ---
 
 >>
-
+![](https://github.com/aliaagamall/FNP-Sales-Analysis-2023/blob/main/Report.PNG)
 >>
 ---
 
